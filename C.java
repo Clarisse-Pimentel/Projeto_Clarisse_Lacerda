@@ -27,4 +27,8 @@ public class C {
         System.out.println("MC2 chamado");
     }
 
+    public void MC3() {
+        System.out.println("MC3 chamado");
+    }
+
 }
