@@ -1,4 +1,4 @@
-# 💻 Projeto_Clarisse_Lacerda
+# Projeto Clarisse Lacerda
 Este projeto foi desenvolvido como parte da disciplina de Engenharia da Software (GCC188), com o objetivo de praticar o uso de comandos Git e o gerenciamento de versões no GitHub.
 ## 👤 **Desenvolvido por**
 [Clarisse Lacerda Pimentel](https://github.com/Clarisse-Pimentel)
